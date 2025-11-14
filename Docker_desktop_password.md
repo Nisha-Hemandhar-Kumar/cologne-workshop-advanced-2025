@@ -16,3 +16,6 @@ pub   rsa3072 2025-11-14 [SC] [expires: 2027-11-14]
 uid                      Nisha <hins.2026@gmail.com>
 sub   rsa3072 2025-11-14 [E] [expires: 2027-11-14]
 
+
+when the docker image is opened, the password is Brainagingmap?19
+
